@@ -1,7 +1,7 @@
 # MushaLushaECS-Beanstalk
 
 
-Descripción del micro-servicio: Servicio usado para hacer fetch de las estadisticas precargadas de los luchadores las cuales estan en una base de datos DynamoDB, así como guardar metadata de lo usuarios que usen el bot.
+Descripción del micro-servicio: Servicio usado para hacer fetch de las estadisticas precargadas de los luchadores las cuales están en una base de datos DynamoDB, así como guardar metadatos de los usuarios que usen el bot.
 
 Requerimientos funcionales:
 - Hecho en node.js
